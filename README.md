@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">Projet-SpringBoot</h1>
-  <p align="center">Kaddem Web Application (Mac, Windows and Linux)</p>
+  <p align="center">Kaddem Web Application Windows </p>
 </p>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/AzizBenIsmail/Projet_Kaddem_Backend_SpringBoot)
