@@ -3,6 +3,8 @@
   <p align="center">Kaddem Web Application (Mac, Windows and Linux)</p>
 </p>
 
+![GitHub repo size](https://img.shields.io/github/repo-size/AzizBenIsmail/Projet_Kaddem_Backend_SpringBoot)
+
 ## 📢 Announcement
 
 ### « Kaddem », c’est quoi?:
